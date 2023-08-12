@@ -69,6 +69,7 @@
                 android:textSize="15dp"
                 android:textStyle="bold" />
             <EditText
+                android:inputType="number"
                 android:id="@+id/dialog_edtAge"
                 android:layout_marginTop="8dp"
                 android:hint="Enter your Age"
